@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
@@ -31,3 +32,24 @@ build/
 
 ### VS Code ###
 .vscode/
+=======
+# Maven
+target/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+.nb-gradle/
+
+# Archivos compilados
+*.class
+
+# IDE
+.idea/
+*.iml
+
+# Credenciales y configuraciones locales
+.env
+*.env
+>>>>>>> origin/master
